@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020 02 28 01:47:49.711,=D:\devop\emba\projects\Project1PCH1.h</Transaction>
+    <Transaction>2020 02 28 01:47:50.894,=D:\devop\emba\projects\Unit1.cpp</Transaction>
+    <Transaction>2020 02 28 01:49:27.492,D:\devop\emba\projects\c++\Hello World\Unit1.h=D:\devop\emba\projects\Unit1.h</Transaction>
+    <Transaction>2020 02 28 01:49:27.492,D:\devop\emba\projects\c++\Hello World\Unit1.cpp=D:\devop\emba\projects\Unit1.cpp</Transaction>
+    <Transaction>2020 02 28 01:49:27.492,D:\devop\emba\projects\c++\Hello World\Unit1.dfm=D:\devop\emba\projects\Unit1.dfm</Transaction>
+    <Transaction>2020 02 28 01:49:31.000,D:\devop\emba\projects\c++\Hello World\Project1PCH1.h=D:\devop\emba\projects\Project1PCH1.h</Transaction>
+    <Transaction>2020 02 28 01:49:34.965,D:\devop\emba\projects\c++\Hello World\Project1.cbproj=D:\devop\emba\projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
